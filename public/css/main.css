@@ -1,0 +1,23 @@
+body{
+  background-image: url(public/fundo1.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #000;
+  padding-top: 50px;
+}
+
+.navbar{
+  font: Arial;
+  font: color rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+
+.bem-vindo{
+  /*background-color: rgb(0, 170, 125);*/
+  font: Arial;
+  font-color:
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+}
